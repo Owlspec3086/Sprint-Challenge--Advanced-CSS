@@ -1,0 +1,8 @@
+[2020-03-20 11:35:49.600] [main] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/~/.vscode-root/User'
+[2020-03-20 11:35:49.747] [main] [info] update#setState idle
+[2020-03-20 11:36:19.753] [main] [info] update#setState checking for updates
+[2020-03-20 11:36:19.876] [main] [info] update#setState idle
+[2020-03-20 12:36:19.781] [main] [info] update#setState checking for updates
+[2020-03-20 12:36:20.165] [main] [info] update#setState idle
+[2020-03-20 13:36:19.809] [main] [info] update#setState checking for updates
+[2020-03-20 13:36:20.181] [main] [info] update#setState idle
