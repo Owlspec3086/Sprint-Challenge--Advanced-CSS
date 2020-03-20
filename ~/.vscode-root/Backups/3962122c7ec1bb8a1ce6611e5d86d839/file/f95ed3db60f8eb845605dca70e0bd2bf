@@ -1,0 +1,31 @@
+file:///home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/variables.less {"mtime":1584726768681,"ctime":1584718192729,"size":545,"etag":"34p5l1a35hi","orphaned":false}
+// Variables
+
+// Color pointers
+@nav-bg: @wild-sand;
+@nav-font: @river-bend;
+@nav-border: @sea-shell;
+
+@header-font-color: @ebony-clay;
+@main-font-color: @shuttle-gray;
+@main-border-color: @border-real;
+
+@footer-background: @wild-sand;
+@footer-font-color: @waterloo;
+
+// Color Vars
+@wild-sand: #F6F6F6;
+@river-bend: #454A59;
+@sea-shell: #F1F1F1;
+@ebony-clay: #23293B;
+@shuttle-gray: #5E6164;
+@porcelain: #F6F7F8;
+@waterloo: #81848E;
+@btn-bg-color: #22283A;
+@border-real: #dee2e6;
+
+// Mobile var
+
+@max-width: 100%;
+@phone: ~"(max-width: 500px)";
+@tablet: ~"(max-width: 800px)";

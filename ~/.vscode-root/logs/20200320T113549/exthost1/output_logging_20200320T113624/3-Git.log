@@ -1,0 +1,867 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :README.md
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/README.md
+> git cat-file -s 07a48d00c221e2f4f55081009bca76340acfb50c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :less/index.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/index.less
+> git cat-file -s 798843e162010fe9b2287c7b7885dc6b0d7650da
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/mixins.less
+> git cat-file -s 530984da7157ef3729d3c4e63810dc11bfc8ae5b
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/variables.less
+> git cat-file -s b5b3d460215405d4121288d86c656449ab922453
+> git show :less/footer.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/footer.less
+> git cat-file -s 2d5144100d4bbfeff01f3d177dff6cf1a52949a2
+> git show :less/global.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/global.less
+> git cat-file -s 359bc1af8a6bb8440284b07aff850deeb1286d1f
+> git show :less/index.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/index.less
+> git cat-file -s 798843e162010fe9b2287c7b7885dc6b0d7650da
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/home-page.less
+> git cat-file -s 4eea66100a2a14ddeeaa754c0ccda54ef208cfa2
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/mixins.less
+> git cat-file -s 530984da7157ef3729d3c4e63810dc11bfc8ae5b
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/navigation.less
+> git cat-file -s 17779ae17a988940e8e729e2b1a2cceb8ecc785e
+> git show :less/reset.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/reset.less
+> git cat-file -s af944401f75ea20515a02ddb3fb43d23ecb8c662
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/variables.less
+> git cat-file -s b5b3d460215405d4121288d86c656449ab922453
+> git show :less/index.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/index.less
+> git cat-file -s 798843e162010fe9b2287c7b7885dc6b0d7650da
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :index.html
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/index.html
+> git cat-file -s 6ba6990f3a17d7637d124b2e9d7f8fb2931a18f5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :README.md
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/README.md
+> git cat-file -s 07a48d00c221e2f4f55081009bca76340acfb50c
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/home-page.less
+> git cat-file -s 4eea66100a2a14ddeeaa754c0ccda54ef208cfa2
+> git show :less/reset.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/reset.less
+> git cat-file -s af944401f75ea20515a02ddb3fb43d23ecb8c662
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/home-page.less
+> git cat-file -s 4eea66100a2a14ddeeaa754c0ccda54ef208cfa2
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/variables.less
+> git cat-file -s b5b3d460215405d4121288d86c656449ab922453
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/home-page.less
+> git cat-file -s 4eea66100a2a14ddeeaa754c0ccda54ef208cfa2
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/mixins.less
+> git cat-file -s 530984da7157ef3729d3c4e63810dc11bfc8ae5b
+> git show :less/index.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/index.less
+> git cat-file -s 798843e162010fe9b2287c7b7885dc6b0d7650da
+> git show :README.md
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/README.md
+> git cat-file -s 07a48d00c221e2f4f55081009bca76340acfb50c
+> git show :README.md
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/README.md
+> git cat-file -s 07a48d00c221e2f4f55081009bca76340acfb50c
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/mixins.less
+> git cat-file -s 530984da7157ef3729d3c4e63810dc11bfc8ae5b
+> git show :less/index.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/index.less
+> git cat-file -s 798843e162010fe9b2287c7b7885dc6b0d7650da
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/variables.less
+> git cat-file -s b5b3d460215405d4121288d86c656449ab922453
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/variables.less
+> git cat-file -s b5b3d460215405d4121288d86c656449ab922453
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/mixins.less
+> git cat-file -s 530984da7157ef3729d3c4e63810dc11bfc8ae5b
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/home-page.less
+> git cat-file -s 4eea66100a2a14ddeeaa754c0ccda54ef208cfa2
+> git show :less/index.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/index.less
+> git cat-file -s 798843e162010fe9b2287c7b7885dc6b0d7650da
+> git show :README.md
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/README.md
+> git cat-file -s 07a48d00c221e2f4f55081009bca76340acfb50c
+> git show :index.html
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/index.html
+> git cat-file -s 6ba6990f3a17d7637d124b2e9d7f8fb2931a18f5
+> git show :README.md
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/README.md
+> git cat-file -s 07a48d00c221e2f4f55081009bca76340acfb50c
+> git show :index.html
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/index.html
+> git cat-file -s 6ba6990f3a17d7637d124b2e9d7f8fb2931a18f5
+> git show :less/index.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/index.less
+> git cat-file -s 798843e162010fe9b2287c7b7885dc6b0d7650da
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/variables.less
+> git cat-file -s b5b3d460215405d4121288d86c656449ab922453
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :README.md
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/README.md
+> git cat-file -s 07a48d00c221e2f4f55081009bca76340acfb50c
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/home-page.less
+> git cat-file -s 4eea66100a2a14ddeeaa754c0ccda54ef208cfa2
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/mixins.less
+> git cat-file -s 530984da7157ef3729d3c4e63810dc11bfc8ae5b
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/variables.less
+> git cat-file -s b5b3d460215405d4121288d86c656449ab922453
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/navigation.less
+> git cat-file -s 17779ae17a988940e8e729e2b1a2cceb8ecc785e
+> git show :README.md
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/README.md
+> git cat-file -s 07a48d00c221e2f4f55081009bca76340acfb50c
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/variables.less
+> git cat-file -s b5b3d460215405d4121288d86c656449ab922453
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/mixins.less
+> git cat-file -s 530984da7157ef3729d3c4e63810dc11bfc8ae5b
+> git check-ignore -v -z --stdin
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/navigation.less
+> git cat-file -s 17779ae17a988940e8e729e2b1a2cceb8ecc785e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :index.html
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/index.html
+> git cat-file -s 6ba6990f3a17d7637d124b2e9d7f8fb2931a18f5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :README.md
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/README.md
+> git cat-file -s 07a48d00c221e2f4f55081009bca76340acfb50c
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/home-page.less
+> git cat-file -s 4eea66100a2a14ddeeaa754c0ccda54ef208cfa2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/mixins.less
+> git cat-file -s 530984da7157ef3729d3c4e63810dc11bfc8ae5b
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/home-page.less
+> git cat-file -s 4eea66100a2a14ddeeaa754c0ccda54ef208cfa2
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/variables.less
+> git cat-file -s b5b3d460215405d4121288d86c656449ab922453
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/navigation.less
+> git cat-file -s 17779ae17a988940e8e729e2b1a2cceb8ecc785e
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/variables.less
+> git cat-file -s b5b3d460215405d4121288d86c656449ab922453
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/mixins.less
+> git cat-file -s 530984da7157ef3729d3c4e63810dc11bfc8ae5b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/home-page.less
+> git cat-file -s 4eea66100a2a14ddeeaa754c0ccda54ef208cfa2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/variables.less
+> git cat-file -s b5b3d460215405d4121288d86c656449ab922453
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/navigation.less
+> git cat-file -s 17779ae17a988940e8e729e2b1a2cceb8ecc785e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :index.html
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/index.html
+> git cat-file -s 6ba6990f3a17d7637d124b2e9d7f8fb2931a18f5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :README.md
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/README.md
+> git cat-file -s 07a48d00c221e2f4f55081009bca76340acfb50c
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/variables.less
+> git cat-file -s b5b3d460215405d4121288d86c656449ab922453
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/mixins.less
+> git cat-file -s 530984da7157ef3729d3c4e63810dc11bfc8ae5b
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/home-page.less
+> git cat-file -s 4eea66100a2a14ddeeaa754c0ccda54ef208cfa2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/variables.less
+> git cat-file -s b5b3d460215405d4121288d86c656449ab922453
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/navigation.less
+> git cat-file -s 17779ae17a988940e8e729e2b1a2cceb8ecc785e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/global.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/global.less
+> git cat-file -s 359bc1af8a6bb8440284b07aff850deeb1286d1f
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/home-page.less
+> git cat-file -s 4eea66100a2a14ddeeaa754c0ccda54ef208cfa2
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/mixins.less
+> git cat-file -s 530984da7157ef3729d3c4e63810dc11bfc8ae5b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/index.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/index.less
+> git cat-file -s 798843e162010fe9b2287c7b7885dc6b0d7650da
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/mixins.less
+> git cat-file -s 530984da7157ef3729d3c4e63810dc11bfc8ae5b
+> git show :less/index.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/index.less
+> git cat-file -s 798843e162010fe9b2287c7b7885dc6b0d7650da
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/mixins.less
+> git cat-file -s 530984da7157ef3729d3c4e63810dc11bfc8ae5b
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/navigation.less
+> git cat-file -s 17779ae17a988940e8e729e2b1a2cceb8ecc785e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/variables.less
+> git cat-file -s b5b3d460215405d4121288d86c656449ab922453
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/home-page.less
+> git cat-file -s 4eea66100a2a14ddeeaa754c0ccda54ef208cfa2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :index.html
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/index.html
+> git cat-file -s 6ba6990f3a17d7637d124b2e9d7f8fb2931a18f5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :README.md
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/README.md
+> git cat-file -s 07a48d00c221e2f4f55081009bca76340acfb50c
+> git show :index.html
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/index.html
+> git cat-file -s 6ba6990f3a17d7637d124b2e9d7f8fb2931a18f5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :css/index.css
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/css/index.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/home-page.less
+> git cat-file -s 4eea66100a2a14ddeeaa754c0ccda54ef208cfa2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/variables.less
+> git cat-file -s b5b3d460215405d4121288d86c656449ab922453
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/navigation.less
+> git cat-file -s 17779ae17a988940e8e729e2b1a2cceb8ecc785e
+> git show :README.md
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/README.md
+> git cat-file -s 07a48d00c221e2f4f55081009bca76340acfb50c
+> git show :index.html
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/index.html
+> git cat-file -s 6ba6990f3a17d7637d124b2e9d7f8fb2931a18f5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/index.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/index.less
+> git cat-file -s 798843e162010fe9b2287c7b7885dc6b0d7650da
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/mixins.less
+> git cat-file -s 530984da7157ef3729d3c4e63810dc11bfc8ae5b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/navigation.less
+> git cat-file -s 17779ae17a988940e8e729e2b1a2cceb8ecc785e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/variables.less
+> git cat-file -s b5b3d460215405d4121288d86c656449ab922453
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/home-page.less
+> git cat-file -s 4eea66100a2a14ddeeaa754c0ccda54ef208cfa2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/variables.less
+> git cat-file -s b5b3d460215405d4121288d86c656449ab922453
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/home-page.less
+> git cat-file -s 4eea66100a2a14ddeeaa754c0ccda54ef208cfa2
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/variables.less
+> git cat-file -s b5b3d460215405d4121288d86c656449ab922453
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/home-page.less
+> git cat-file -s 4eea66100a2a14ddeeaa754c0ccda54ef208cfa2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/navigation.less
+> git cat-file -s 17779ae17a988940e8e729e2b1a2cceb8ecc785e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/mixins.less
+> git cat-file -s 530984da7157ef3729d3c4e63810dc11bfc8ae5b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/index.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/index.less
+> git cat-file -s 798843e162010fe9b2287c7b7885dc6b0d7650da
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/mixins.less
+> git cat-file -s 530984da7157ef3729d3c4e63810dc11bfc8ae5b
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/home-page.less
+> git cat-file -s 4eea66100a2a14ddeeaa754c0ccda54ef208cfa2
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/variables.less
+> git cat-file -s b5b3d460215405d4121288d86c656449ab922453
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/home-page.less
+> git cat-file -s 4eea66100a2a14ddeeaa754c0ccda54ef208cfa2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/variables.less
+> git cat-file -s b5b3d460215405d4121288d86c656449ab922453
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/home-page.less
+> git cat-file -s 4eea66100a2a14ddeeaa754c0ccda54ef208cfa2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/variables.less
+> git cat-file -s b5b3d460215405d4121288d86c656449ab922453
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/navigation.less
+> git cat-file -s 17779ae17a988940e8e729e2b1a2cceb8ecc785e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/mixins.less
+> git cat-file -s 530984da7157ef3729d3c4e63810dc11bfc8ae5b
+> git show :less/index.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/index.less
+> git cat-file -s 798843e162010fe9b2287c7b7885dc6b0d7650da
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/mixins.less
+> git cat-file -s 530984da7157ef3729d3c4e63810dc11bfc8ae5b
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/navigation.less
+> git cat-file -s 17779ae17a988940e8e729e2b1a2cceb8ecc785e
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/variables.less
+> git cat-file -s b5b3d460215405d4121288d86c656449ab922453
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/home-page.less
+> git cat-file -s 4eea66100a2a14ddeeaa754c0ccda54ef208cfa2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :README.md
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/README.md
+> git cat-file -s 07a48d00c221e2f4f55081009bca76340acfb50c
+> git show :index.html
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/index.html
+> git cat-file -s 6ba6990f3a17d7637d124b2e9d7f8fb2931a18f5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template

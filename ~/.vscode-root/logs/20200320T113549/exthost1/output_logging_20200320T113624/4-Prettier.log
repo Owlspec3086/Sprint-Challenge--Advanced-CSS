@@ -1,0 +1,288 @@
+["INFO" - 11:36:24 AM] Extension Name: "prettier-vscode".
+["INFO" - 11:36:24 AM] Extension Version: "3.20.0".
+["INFO" - 11:36:24 AM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 11:36:24 AM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 12:59:02 PM] Formatting /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/index.html
+["INFO" - 12:59:02 PM] Using ignore file (if present) at /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/.prettierignore
+["INFO" - 12:59:02 PM] Using bundled version of prettier.
+["INFO" - 12:59:02 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 12:59:02 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:59:02 PM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "endOfLine": "auto",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/index.html",
+  "parser": "html"
+}
+["INFO" - 12:59:02 PM] Formatting completed in 377.290389ms.
+["INFO" - 1:06:51 PM] Formatting /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/index.html
+["INFO" - 1:06:51 PM] Using ignore file (if present) at /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/.prettierignore
+["INFO" - 1:06:51 PM] Using bundled version of prettier.
+["INFO" - 1:06:51 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 1:06:51 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:06:51 PM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "endOfLine": "auto",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/index.html",
+  "parser": "html"
+}
+["INFO" - 1:06:51 PM] Formatting completed in 175.759105ms.
+["INFO" - 1:07:27 PM] Formatting /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/index.html
+["INFO" - 1:07:27 PM] Using ignore file (if present) at /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/.prettierignore
+["INFO" - 1:07:27 PM] Using bundled version of prettier.
+["INFO" - 1:07:27 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 1:07:27 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:07:27 PM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "endOfLine": "auto",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/index.html",
+  "parser": "html"
+}
+["INFO" - 1:07:27 PM] Formatting completed in 106.552131ms.
+["INFO" - 1:35:26 PM] Formatting /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/index.html
+["INFO" - 1:35:26 PM] Using ignore file (if present) at /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/.prettierignore
+["INFO" - 1:35:26 PM] Using bundled version of prettier.
+["INFO" - 1:35:26 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 1:35:26 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:35:26 PM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "endOfLine": "auto",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/index.html",
+  "parser": "html"
+}
+["INFO" - 1:35:26 PM] Formatting completed in 111.879216ms.
+["INFO" - 1:46:20 PM] Formatting /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/index.html
+["INFO" - 1:46:20 PM] Using ignore file (if present) at /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/.prettierignore
+["INFO" - 1:46:20 PM] Using bundled version of prettier.
+["INFO" - 1:46:20 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 1:46:20 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:46:20 PM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "endOfLine": "auto",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/index.html",
+  "parser": "html"
+}
+["INFO" - 1:46:20 PM] Formatting completed in 80.546147ms.
+["INFO" - 1:48:19 PM] Formatting /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/navigation.less
+["INFO" - 1:48:19 PM] Using ignore file (if present) at /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/.prettierignore
+["INFO" - 1:48:19 PM] Using bundled version of prettier.
+["INFO" - 1:48:19 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "less"
+}
+["INFO" - 1:48:19 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:48:19 PM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "endOfLine": "auto",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/navigation.less",
+  "parser": "less"
+}
+["INFO" - 1:48:19 PM] Formatting completed in 101.916924ms.
+["INFO" - 1:50:05 PM] Formatting /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/home-page.less
+["INFO" - 1:50:05 PM] Using ignore file (if present) at /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/.prettierignore
+["INFO" - 1:50:05 PM] Using bundled version of prettier.
+["INFO" - 1:50:05 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "less"
+}
+["INFO" - 1:50:05 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:50:05 PM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "endOfLine": "auto",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/less/home-page.less",
+  "parser": "less"
+}
+["INFO" - 1:50:05 PM] Formatting completed in 51.332324ms.
+["INFO" - 2:01:29 PM] Formatting /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/index.html
+["INFO" - 2:01:29 PM] Using ignore file (if present) at /home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/.prettierignore
+["INFO" - 2:01:29 PM] Using bundled version of prettier.
+["INFO" - 2:01:29 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 2:01:29 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 2:01:29 PM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "endOfLine": "auto",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/owlspec3086/Lambda_assignments/Sprint-Challenge--Advanced-CSS/index.html",
+  "parser": "html"
+}
+["INFO" - 2:01:29 PM] Formatting completed in 152.514354ms.
